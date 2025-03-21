@@ -1,7 +1,10 @@
 👋 Hi, I’m Daniel Anthony
     
-    🧪 I specialize in Software Testing & Automation, ensuring software quality through efficient testing strategies.
-       👀 And I’m passionate about understanding how things work and continuously learning new technologies.
+    🧪 I specialize in Software Testing & Automation, 
+        ensuring software quality through efficient testing strategies.
+        
+       👀 And I’m passionate about understanding how things work
+           and continuously learning new technologies.
     
     🌱 Currently, I’m expanding my skill set by studying Full Stack Development at Helsinki Business College.
     
