@@ -6,7 +6,8 @@
        👀 And I’m passionate about understanding how things work
            and continuously learning new technologies.
     
-    🌱 Currently, I’m expanding my skill set by studying Full Stack Development at Helsinki Business College.
+    🌱 Currently, I’m expanding my skill set by studying Full Stack Development 
+        at Helsinki Business College.
     
     💡 I’m eager to collaborate on projects related to test automation, CI/CD, and web development.
     
